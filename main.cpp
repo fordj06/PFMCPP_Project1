@@ -52,85 +52,85 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: robot
+//  action 1: the robot moves forward
+robot.forward();
+//  action 2: the robot turns left 90 degrees 
+robot.left_90();
+//  action 3: the robot sleeps
+robot.sleep();
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: dog
+//  action 1: the dog runs
+dog.run();
+//  action 2: the dog jumps
+dog.jump();
+//  action 3: the dog eats
+dog.eat();
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: sensor
+//  action 1: the sensor measures temperature
+sensor.measureTemperature
+//  action 2: the sensor measures humidity
+sensor.measureHumidity
+//  action 3: the sensor measures light
+sensor.measureLight
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:       eyes
+//  action 1:   the eyes blink
+eyes.blink();
+//  action 2:   the eyes close
+eyes.close();
+//  action 3:   the eyes squint
+eyes.squint();
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:       aeroplane
+//  action 1:   the aeroplane takes off
+aeroplane.takeOff();
+//  action 2:   the aeroplane lands 
+aeroplane.land();
+//  action 3:   the aeroplane adjust pitch
+aeroplane.pitchAdjust();
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: Washing machine
+//  action 1: Washing machine fills with water
+washingsMachine.fillWater();
+//  action 2: washing machine releases detergent 
+washingMachine.releaseDetergent();
+//  action 3: washing machine spins
+washingMachine.spin();
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: HVAC
+//  action 1: HVAC turns fans on 
+HVAC.fansRotate();
+//  action 2: HVAC heats
+HVAC.heat();
+//  action 3: HVAC cools
+HVAC.cool();
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: Phone
+//  action 1: phone rings
+phone.ring();
+//  action 2: phone updates display
+phone.updateDisplay();
+//  action 3: phone vibrates
+phone.vibrate();
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:laptop
+//  action 1: laptop boots up
+laptop.boot();
+//  action 2: laptop shuts down
+laptop.shutDown();
+//  action 3: laptop connects to internet
+laptop.connectInternet();
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: NPC
+//  action 1: NPC runs in circle 
+NPC.walkCircle();
+//  action 2: NPC speaks
+NPC.speak();
+//  action 3: NPC despawn
+NPC.despawn();
 
 
 #endif
